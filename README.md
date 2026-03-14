@@ -27,7 +27,7 @@ Objetivo do projeto
 
 Este projeto foi criado para fortalecer meus conhecimentos em Python e no desenvolvimento de aplicações com interface gráfica, colocando em prática a lógica de programação de forma visual e interativa.
 
-Imagem do projeto
+
 
 
 
